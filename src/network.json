@@ -1,0 +1,84 @@
+{
+  "topology": [
+    {
+      "source": 1,
+      "dest": 2,
+<<<<<<< HEAD
+      "bandwidth": 20,
+      "propagation": 5,
+=======
+      "bandwidth": 50,
+      "propagation": 10,
+>>>>>>> origin/a2c
+      "_source_comment_": "source means source computing node ID",
+      "_dest_comment_": "dest means destination computing node ID",
+      "_bandwidth_comment_": "link bandwidth and metric is kbps",
+      "_propagation_comment_": "link propagation and metric is ms"
+    }, {
+      "source": 1,
+      "dest": 3,
+      "bandwidth": 50,
+      "propagation": 10
+    },{
+      "source": 2,
+      "dest": 3,
+      "bandwidth": 20,
+      "propagation": 5
+    }, {
+      "source": 2,
+      "dest": 4,
+<<<<<<< HEAD
+      "bandwidth": 20,
+      "propagation": 5
+    }, {
+      "source": 4,
+      "dest": 5,
+      "bandwidth": 20,
+      "propagation": 5
+    }, {
+      "source": 5,
+      "dest": 6,
+      "bandwidth": 20,
+      "propagation": 5
+    }, {
+      "source": 6,
+      "dest": 7,
+      "bandwidth": 20,
+      "propagation": 5
+    },{
+      "source": 7,
+      "dest": 8,
+      "bandwidth": 20,
+      "propagation": 5
+    },{
+      "source": 8,
+      "dest": 9,
+      "bandwidth": 20,
+      "propagation": 5
+    },{
+      "source": 9,
+      "dest": 10,
+      "bandwidth": 20,
+      "propagation": 5
+=======
+      "bandwidth": 50,
+      "propagation": 10
+    }, {
+      "source": 4,
+      "dest": 5,
+      "bandwidth": 50,
+      "propagation": 10
+    },{
+      "source": 3,
+      "dest": 5,
+      "bandwidth": 50,
+      "propagation": 10
+>>>>>>> origin/a2c
+    }
+
+  ],
+  "cloud": {
+    "bandwidth" : 100,
+    "propagation": 100
+  }
+}

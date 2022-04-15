@@ -1,0 +1,55 @@
+{
+  "cloud" : {
+    "id" : 0,
+    "mips" : 100000
+  },
+  "edge" : [
+    {
+      "id" : 1,
+      "mips" : 10000,
+      "percentage" : 5
+    },{
+      "id" : 2,
+      "mips" : 10000,
+      "percentage" : 40
+    },{
+      "id" : 3,
+      "mips" : 10000,
+      "percentage" : 10
+    },{
+      "id" : 4,
+      "mips" : 10000,
+      "percentage" : 35
+    },{
+      "id" : 5,
+      "mips" : 10000,
+      "percentage" : 10
+<<<<<<< HEAD
+    },{
+      "id" : 6,
+      "mips" : 10000,
+      "percentage" : 20
+    },{
+      "id" : 7,
+      "mips" : 10000,
+      "percentage" : 10
+    },{
+      "id" : 8,
+      "mips" : 10000,
+      "percentage" : 15
+    },{
+      "id" : 9,
+      "mips" : 10000,
+      "percentage" : 10
+    },{
+      "id" : 10,
+      "mips" : 10000,
+      "percentage" : 20
+=======
+>>>>>>> origin/a2c
+    }
+  ],
+  "mobile" : {
+    "mips" : 2000
+  }
+}
